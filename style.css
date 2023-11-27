@@ -28,3 +28,44 @@
     align-items: center;
     /* border: 3px solid blue; */
 }
+
+.hero{
+    flex: display;
+    border: 3px solid blue;
+    padding: 24px;
+    height: 32px;
+}
+
+.ironman{
+    display: flex;
+    border: 3px solid blue;
+    padding: 24px;
+    align-items: center;
+
+    
+}
+
+.im{
+    display: flex;
+    width: 60%;
+    height: auto;
+}
+
+.ironman1{
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    align-content: center;
+    justify-items: center;
+    /* align-items: center; */
+}
+.learn1{
+    display: flex;
+    font-size: 1cm;
+}
+
+.learn2{
+    display: flex;
+    font-size: 0.7cm;
+    align-items: center
+}
