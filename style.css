@@ -69,3 +69,77 @@
     font-size: 0.7cm;
     align-items: center
 }
+
+.hulk{
+    display: flex;
+    box-sizing: border-box;
+    border: 3px solid rgb(43, 255, 0);
+    padding: 24px;
+    align-items: center
+}
+
+.h{
+    display: block;
+    box-sizing: border-box;
+    width: 50%;
+    border: 3px solid rgb(43, 255, 0);
+    
+}
+
+/* .h1{
+    display: block;
+    box-sizing: border-box;
+    width: 50%;
+    border: 3px solid rgb(43, 255, 0);
+} */
+.h2{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.t1{
+    display: flex;
+    font-size: 1cm;
+    /* justify-content: center; */
+}
+
+.g{
+    display: flex;
+    box-sizing: border-box;
+    width: 50%;
+    border: 3px solid rgb(43, 255, 0);
+    flex-direction: row;
+    justify-content: end;
+}
+
+.g1{
+    display: flex;
+    box-sizing: border-box;
+    width: 50%;
+    padding:2%;
+    border: 3px solid rgb(38, 0, 255);
+    /* justify-content: end;
+    flex-direction: row; */
+}
+
+.g2{
+    display: block;
+    width: 90%;
+    height: auto;
+}
+
+.gg1{
+    display: flex;
+    box-sizing: border-box;
+    width: 50%;
+    padding:2%;
+    border: 3px solid rgb(38, 0, 255);
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+/* gg2.{
+    display: flex;
+} */
