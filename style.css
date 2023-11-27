@@ -1,0 +1,30 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+    height: 32px;
+    background-color: wheat;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.righttop{
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style: none;
+    gap: 16px;
+    align-items: center;
+    /* border: 3px solid blue; */
+}
