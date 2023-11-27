@@ -185,3 +185,11 @@
     
 }
 
+.v1{
+    display: flex;
+    width: 60%;
+    height: auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
